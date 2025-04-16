@@ -633,6 +633,8 @@ Citizen.CreateThread(function()
 	end
 end)
 
+RemoveImap(-928815382) -- removes white smoke in st denis next to the station
+
 --------------------------------                                   ############# -- Valentine Investigate -- ###############                                       ----------------------
 
 RequestImap(-661560211)  -- Barrels Everywhere?
